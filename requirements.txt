@@ -1,6 +1,2 @@
-
-flask
-opencv-contrib-python
-numpy
-pillow
-pandas
+gunicorn==26.0.0
+packaging==26.2
